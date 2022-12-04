@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e347161-b6cf-4c73-a0e8-9e4d918a61f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/HandlerExtensions/AdditionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/HandlerExtensions/DivisionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/HandlerExtensions/MultiplicationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/HandlerExtensions/SubtractionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/HandlerExtensions/AdditionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HandlerExtensions/AdditionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/HandlerExtensions/DivisionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HandlerExtensions/DivisionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/HandlerExtensions/MultiplicationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HandlerExtensions/MultiplicationHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/HandlerExtensions/SubtractionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HandlerExtensions/SubtractionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +100,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -108,7 +114,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670189140358</updated>
-      <workItem from="1670189142354" duration="2035000" />
+      <workItem from="1670189142354" duration="2334000" />
     </task>
     <servers />
   </component>

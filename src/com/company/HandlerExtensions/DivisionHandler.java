@@ -16,7 +16,7 @@ public class DivisionHandler extends Handler {
 
     public void process(Request request){
         if(request.symbol == '/'){
-            calculate(request);
+            System.out.println(calculate(request));
         }else{
             super.process(request);
         }
