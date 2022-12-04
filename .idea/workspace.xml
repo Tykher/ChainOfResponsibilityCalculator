@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e347161-b6cf-4c73-a0e8-9e4d918a61f6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/HandlerExtensions/AdditionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HandlerExtensions/AdditionHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/HandlerExtensions/DivisionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HandlerExtensions/DivisionHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/HandlerExtensions/MultiplicationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HandlerExtensions/MultiplicationHandler.java" afterDir="false" />
@@ -114,7 +115,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670189140358</updated>
-      <workItem from="1670189142354" duration="2334000" />
+      <workItem from="1670189142354" duration="2456000" />
     </task>
     <servers />
   </component>
