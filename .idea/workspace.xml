@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e347161-b6cf-4c73-a0e8-9e4d918a61f6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/HandlerExtensions/AdditionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HandlerExtensions/AdditionHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/HandlerExtensions/DivisionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HandlerExtensions/DivisionHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/HandlerExtensions/MultiplicationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HandlerExtensions/MultiplicationHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/HandlerExtensions/SubtractionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HandlerExtensions/SubtractionHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="6e347161-b6cf-4c73-a0e8-9e4d918a61f6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,6 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670189140358</updated>
       <workItem from="1670189142354" duration="2456000" />
+      <workItem from="1670335646112" duration="196000" />
     </task>
     <servers />
   </component>
